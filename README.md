@@ -1,44 +1,58 @@
 # Hi, I'm Mannu Thakur 👋
 
-🎓 Computer Engineering Student @ IIIT Bhubaneswar  
-💻 Solved 500+ Data Structures & Algorithms problems (LeetCode & CodeChef)  
-🚀 Backend Developer | Full Stack | IoT Systems  
+Computer Engineering student at **IIIT Bhubaneswar**  
+Backend developer • Full-stack developer • IoT enthusiast  
+Focused on building practical, scalable, and user-friendly tech
 
 ---
 
-## 🔧 Tech Stack
-- Languages: C++, Java, JavaScript  
-- Backend: Node.js, Express.js  
-- Frontend: React.js  
-- Databases: MongoDB, MySQL  
-- Core: Data Structures, Algorithms, System Design  
+## About Me
+
+- 🎓 Computer Engineering student at IIIT Bhubaneswar
+- 💻 Solved **500+ DSA problems** on LeetCode and CodeChef
+- 🚀 Interested in Backend Development, Full Stack Development, and IoT Systems
+- 🧠 Strong foundation in Data Structures, Algorithms, and System Design
+- ⚡ I enjoy turning ideas into real, working products
 
 ---
 
-## 🚀 Projects
+## Tech Stack
 
-### 🔹 IoT Accident Detection System
-- Real-time accident detection using motion & impact analysis  
-- GPS + GSM/LoRa based emergency alerts  
-- Backend for severity classification  
-
-### 🔹 Online Code Editor
-- Browser-based code editor with real-time preview  
-- Optimized DOM rendering and debugging  
-
-### 🔹 Quiz Portal
-- Interactive quiz system with timer and scoring  
-
-### 🔹 Weather App
-- Real-time weather data using OpenWeather API  
+**Languages:** C++, Java, JavaScript  
+**Frontend:** React.js  
+**Backend:** Node.js, Express.js  
+**Databases:** MongoDB, MySQL  
+**Core Areas:** Data Structures, Algorithms, System Design, IoT
 
 ---
 
-## 📈 Coding Profiles
-- LeetCode: https://leetcode.com/<your-username>  
-- CodeChef: https://www.codechef.com/users/<your-username>  
+## Projects
+
+### IoT Accident Detection System
+A real-time accident detection system built with motion and impact analysis, GPS/GSM/LoRa-based emergency alerts, and backend support for severity classification.
+
+### Online Code Editor
+A browser-based code editor with live preview, optimized rendering, and debugging support for a smooth developer experience.
+
+### Quiz Portal
+An interactive quiz platform with timer-based gameplay, scoring logic, and a clean user flow.
+
+### Weather App
+A real-time weather application powered by the OpenWeather API.
 
 ---
 
-## 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/mannu-kumar-thakur-6903a0348  
+## Coding Profiles
+
+- LeetCode: https://leetcode.com/<your-username>
+- CodeChef: https://www.codechef.com/users/<your-username>
+
+---
+
+## Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/mannu-kumar-thakur-6903a0348
+
+---
+
+### Building, learning, and shipping one project at a time.
