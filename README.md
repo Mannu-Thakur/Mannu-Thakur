@@ -1,4 +1,4 @@
-# Hi, I'm Mannu Thakur 👋
+# Hi, I'm Mannu Kumar Thakur 👋
 
 ### 🚀 Computer Engineering Student @ IIIT Bhubaneswar
 
