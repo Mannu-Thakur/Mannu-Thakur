@@ -1,84 +1,86 @@
 # Hi, I'm Mannu Thakur 👋
 
-**Computer Engineering Student @ IIIT Bhubaneswar**  
-**Backend Developer • Full-Stack Developer • GenAI Builder • IoT Enthusiast**
+### Computer Engineering Student @ IIIT Bhubaneswar
 
-I build practical products, solve hard problems, and keep learning across backend systems, AI workflows, and full-stack development.
+🚀 Backend Developer | Full-Stack Engineer | GenAI Enthusiast
 
----
-
-## About Me
-
-- 🎓 Computer Engineering student at IIIT Bhubaneswar
-- 💻 Solved **800+ DSA problems** across LeetCode, CodeChef, and more
-- 🚀 Built full-stack products, coding platforms, and real-world web apps
-- ⚙️ Working with **FastAPI, LangChain, LangGraph, Node.js, Express.js, React.js**
-- 🧠 Strong interests in **Backend Engineering, System Design, and GenAI**
-- 📦 I like building projects that are clean, fast, and actually useful
+I enjoy building scalable web applications, AI-powered systems, and solving challenging algorithmic problems. Passionate about writing clean code, designing robust backend architectures, and continuously learning new technologies.
 
 ---
 
-## Tech Stack
+## 💡 Highlights
 
-**Languages**  
-C++, Java, JavaScript, Python
-
-**Frontend**  
-React.js, HTML, CSS, Tailwind CSS
-
-**Backend**  
-Node.js, Express.js, FastAPI
-
-**AI / GenAI**  
-LangChain, LangGraph, RAG, LLM workflows
-
-**Databases**  
-MongoDB, MySQL, SQLite
-
-**Core**  
-Data Structures, Algorithms, System Design, REST APIs, IoT Systems
+- 🎓 Computer Engineering Student at **IIIT Bhubaneswar**
+- 💻 Solved **800+ DSA Problems** across LeetCode & CodeChef
+- 🏗️ Built production-scale Full-Stack, Backend, and GenAI projects
+- 🤖 Exploring **FastAPI, LangChain, LangGraph, RAG & AI Agents**
+- ⚡ Interested in Backend Engineering, Distributed Systems & System Design
 
 ---
 
-## Featured Projects
+## 🛠 Tech Stack
 
-### ChaseMart — Full-Stack E-Commerce Platform
-A complete e-commerce platform with customer, admin, and backend workflows built for real-world shopping experiences.
+**Languages**
 
-### Coding Platform
-A browser-based coding platform with problem-solving workflows, execution support, and a developer-focused experience.
+`C++` • `Java` • `JavaScript` • `Python`
 
-### IoT Accident Detection System
-Real-time accident detection using motion and impact analysis with emergency alert mechanisms.
+**Frontend**
 
-### Weather App
-A clean weather application using live API data and responsive UI.
+`React.js` • `Tailwind CSS` • `HTML5` • `CSS3`
 
-### Quiz Portal
-An interactive quiz platform with timer, scoring, and smooth user flow.
+**Backend**
 
----
+`Node.js` • `Express.js` • `FastAPI`
 
-## What I’m Learning
+**GenAI**
 
-- FastAPI for high-performance backend development
-- LangChain and LangGraph for GenAI applications
-- Scalable backend design and production-ready APIs
-- Better architecture for full-stack and AI-powered products
+`LangChain` • `LangGraph` • `RAG` • `LLMs`
 
----
+**Database**
 
-## Coding Profiles
+`MongoDB` • `MySQL` • `SQLite`
 
-- LeetCode: https://leetcode.com/<your-username>
-- CodeChef: https://www.codechef.com/users/<your-username>
+**Tools**
+
+`Git` • `GitHub` • `REST APIs` • `Postman`
 
 ---
 
-## Connect With Me
+## 🚀 Featured Projects
 
-- LinkedIn: https://www.linkedin.com/in/mannu-kumar-thakur-6903a0348
+### 🛍️ ChaseMart
+A full-stack e-commerce platform featuring customer & admin dashboards, secure authentication, Stripe & Razorpay payments, Cloudinary integration, and a scalable REST API architecture.
+
+### 💻 CodeArena
+A modern coding platform with online code execution, coding challenges, multiplayer contests, authentication, submissions, leaderboards, and an interactive coding experience.
+
+### 🤖 YouTube GenAI Assistant
+A Retrieval-Augmented Generation (RAG) application built with **FastAPI, LangChain, LangGraph, FAISS, and Groq**, enabling users to ask natural language questions about YouTube videos using AI.
 
 ---
 
-**Always building. Always learning. Always improving.**
+## 📈 Coding
+
+- 💻 **800+ DSA Problems Solved**
+- 🧠 Strong foundation in **Data Structures & Algorithms**
+- ⚙️ Regularly practice competitive programming and problem solving
+
+---
+
+## 🌱 Currently Learning
+
+- AI Agents
+- Advanced LangGraph Workflows
+- Scalable Backend Systems
+- System Design
+- Cloud & Deployment
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn → https://www.linkedin.com/in/mannu-kumar-thakur-6903a0348
+
+---
+
+> **"Build. Learn. Improve. Repeat."** 🚀
