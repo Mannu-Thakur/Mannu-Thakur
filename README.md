@@ -1,86 +1,100 @@
 # Hi, I'm Mannu Thakur 👋
 
-### Computer Engineering Student @ IIIT Bhubaneswar
+### 🚀 Computer Engineering Student @ IIIT Bhubaneswar
 
-🚀 Backend Developer | Full-Stack Engineer | GenAI Enthusiast
+> **Backend Developer • Full-Stack Engineer • GenAI Enthusiast • Problem Solver**
 
-I enjoy building scalable web applications, AI-powered systems, and solving challenging algorithmic problems. Passionate about writing clean code, designing robust backend architectures, and continuously learning new technologies.
+I love building scalable applications, AI-powered systems, and solving real-world problems through software. I'm passionate about backend engineering, system design, and continuously exploring emerging technologies.
 
 ---
 
-## 💡 Highlights
+## 🌟 Highlights
 
 - 🎓 Computer Engineering Student at **IIIT Bhubaneswar**
-- 💻 Solved **800+ DSA Problems** across LeetCode & CodeChef
-- 🏗️ Built production-scale Full-Stack, Backend, and GenAI projects
-- 🤖 Exploring **FastAPI, LangChain, LangGraph, RAG & AI Agents**
-- ⚡ Interested in Backend Engineering, Distributed Systems & System Design
+- 💻 Solved **800+ DSA problems** across LeetCode & CodeChef
+- 🚀 Built production-ready **Full-Stack, Backend, GenAI, and IoT** applications
+- 🤖 Exploring **FastAPI, LangChain, LangGraph, RAG, AI Agents & LLM Workflows**
+- ⚡ Passionate about **Backend Engineering, System Design & Scalable Architecture**
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**
-
+### Languages
 `C++` • `Java` • `JavaScript` • `Python`
 
-**Frontend**
-
+### Frontend
 `React.js` • `Tailwind CSS` • `HTML5` • `CSS3`
 
-**Backend**
-
+### Backend
 `Node.js` • `Express.js` • `FastAPI`
 
-**GenAI**
+### AI / GenAI
+`LangChain` • `LangGraph` • `FAISS` • `RAG` • `LLMs`
 
-`LangChain` • `LangGraph` • `RAG` • `LLMs`
-
-**Database**
-
+### Databases
 `MongoDB` • `MySQL` • `SQLite`
 
-**Tools**
-
+### Tools
 `Git` • `GitHub` • `REST APIs` • `Postman`
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🛍️ ChaseMart
-A full-stack e-commerce platform featuring customer & admin dashboards, secure authentication, Stripe & Razorpay payments, Cloudinary integration, and a scalable REST API architecture.
-
-### 💻 CodeArena
-A modern coding platform with online code execution, coding challenges, multiplayer contests, authentication, submissions, leaderboards, and an interactive coding experience.
-
-### 🤖 YouTube GenAI Assistant
-A Retrieval-Augmented Generation (RAG) application built with **FastAPI, LangChain, LangGraph, FAISS, and Groq**, enabling users to ask natural language questions about YouTube videos using AI.
+A production-ready full-stack e-commerce platform featuring secure authentication, customer & admin dashboards, Stripe & Razorpay integration, Cloudinary, order management, and scalable REST APIs.
 
 ---
 
-## 📈 Coding
+### ⚔️ bugX
+A modern competitive coding platform with online code execution, coding challenges, multiplayer battles, leaderboards, authentication, submissions, and an intuitive developer experience.
+
+---
+
+### 🚨 IoT Accident Detection & Emergency Response System
+An intelligent IoT solution that detects vehicle accidents using sensor data, analyzes impact severity, and instantly sends emergency alerts with live GPS location through GSM/LoRa communication.
+
+---
+
+## 💡 Interests
+
+- Backend Development
+- Full-Stack Engineering
+- Artificial Intelligence & GenAI
+- System Design
+- Scalable Distributed Systems
+- IoT & Smart Systems
+
+---
+
+## 📈 Coding Journey
 
 - 💻 **800+ DSA Problems Solved**
-- 🧠 Strong foundation in **Data Structures & Algorithms**
-- ⚙️ Regularly practice competitive programming and problem solving
+- 🧠 Strong foundation in Data Structures & Algorithms
+- 📚 Continuously learning and building real-world software
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Exploring
 
-- AI Agents
-- Advanced LangGraph Workflows
-- Scalable Backend Systems
-- System Design
-- Cloud & Deployment
-
----
-
-## 📫 Connect With Me
-
-💼 LinkedIn → https://www.linkedin.com/in/mannu-kumar-thakur-6903a0348
+- 🤖 AI Agents
+- 🧩 Advanced LangGraph Workflows
+- ⚡ FastAPI & High-Performance APIs
+- ☁️ Cloud Deployment
+- 🏗️ Scalable System Design
 
 ---
 
-> **"Build. Learn. Improve. Repeat."** 🚀
+## 🤝 Let's Connect
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/mannu-kumar-thakur-6903a0348
+
+---
+
+<div align="center">
+
+### ⚡ *"Building products that solve real problems, one commit at a time."*
+
+</div>
