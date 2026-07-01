@@ -1,100 +1,120 @@
-# Hi, I'm Mannu Kumar Thakur 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Hi, I'm Mannu Thakur
 
-### 🚀 Computer Engineering Student @ IIIT Bhubaneswar
+### **Backend Developer • Full-Stack Engineer • GenAI Enthusiast • Problem Solver**
 
-> **Backend Developer • Full-Stack Engineer • GenAI Enthusiast • Problem Solver**
+🎓 **Computer Engineering Student @ IIIT Bhubaneswar**
 
-I love building scalable applications, AI-powered systems, and solving real-world problems through software. I'm passionate about backend engineering, system design, and continuously exploring emerging technologies.
-
----
-
-## 🌟 Highlights
-
-- 🎓 Computer Engineering Student at **IIIT Bhubaneswar**
-- 💻 Solved **800+ DSA problems** across LeetCode & CodeChef
-- 🚀 Built production-ready **Full-Stack, Backend, GenAI, and IoT** applications
-- 🤖 Exploring **FastAPI, LangChain, LangGraph, RAG, AI Agents & LLM Workflows**
-- ⚡ Passionate about **Backend Engineering, System Design & Scalable Architecture**
+> *Building scalable backend systems, AI-powered applications, and products that solve real-world problems.*
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 About Me
 
-### Languages
-`C++` • `Java` • `JavaScript` • `Python`
-
-### Frontend
-`React.js` • `Tailwind CSS` • `HTML5` • `CSS3`
-
-### Backend
-`Node.js` • `Express.js` • `FastAPI`
-
-### AI / GenAI
-`LangChain` • `LangGraph` • `FAISS` • `RAG` • `LLMs`
-
-### Databases
-`MongoDB` • `MySQL` • `SQLite`
-
-### Tools
-`Git` • `GitHub` • `REST APIs` • `Postman`
+* 💻 Solved **800+ DSA problems** across LeetCode & CodeChef
+* 🛠️ Passionate about Backend Development, System Design & Distributed Systems
+* 🤖 Currently building **GenAI** applications using **LangChain** & **LangGraph**
+* 🚀 Love transforming ideas into production-ready products
+* 🌱 Constantly learning new technologies and improving engineering skills
 
 ---
 
-# 🚀 Featured Projects
+# 💻 Tech Stack
 
-### 🛍️ ChaseMart
-A production-ready full-stack e-commerce platform featuring secure authentication, customer & admin dashboards, Stripe & Razorpay integration, Cloudinary, order management, and scalable REST APIs.
+### 👨‍💻 Languages
+
+<p>
+C++ • Java • JavaScript • TypeScript • Python
+</p>
+
+### ⚙️ Backend
+
+<p>
+FastAPI • Node.js • Express.js • REST APIs
+</p>
+
+### 🎨 Frontend
+
+<p>
+React.js • Tailwind CSS • HTML5 • CSS3
+</p>
+
+### 🤖 AI & GenAI
+
+<p>
+LangChain • LangGraph • RAG • FAISS • LLM Workflows
+</p>
+
+### 🗄️ Databases
+
+<p>
+PostgreSQL • MongoDB • MySQL • SQLite
+</p>
+
+### 🧰 Tools & Technologies
+
+<p>
+Git • GitHub • Docker • Postman • Prisma • VS Code
+</p>
 
 ---
+
+# 🌟 Featured Projects
+
+## 🛍️ ChaseMart
+
+A full-stack e-commerce platform built with a modern architecture featuring secure authentication, admin dashboard, product & order management, Stripe & Razorpay integration, Cloudinary, and scalable REST APIs.
 
 ### ⚔️ bugX
-A modern competitive coding platform with online code execution, coding challenges, multiplayer battles, leaderboards, authentication, submissions, and an intuitive developer experience.
 
----
+A modern competitive coding platform supporting online code execution, coding challenges, multiplayer battles, authentication, submissions, leaderboards, and a developer-focused coding experience.
 
 ### 🚨 IoT Accident Detection & Emergency Response System
-An intelligent IoT solution that detects vehicle accidents using sensor data, analyzes impact severity, and instantly sends emergency alerts with live GPS location through GSM/LoRa communication.
+
+An intelligent IoT solution that detects accidents using sensor data, analyzes impact severity, and automatically sends emergency alerts with live GPS location using GSM/LoRa communication.
 
 ---
 
-## 💡 Interests
+# 🎯 Areas of Interest
 
-- Backend Development
-- Full-Stack Engineering
-- Artificial Intelligence & GenAI
-- System Design
-- Scalable Distributed Systems
-- IoT & Smart Systems
-
----
-
-## 📈 Coding Journey
-
-- 💻 **800+ DSA Problems Solved**
-- 🧠 Strong foundation in Data Structures & Algorithms
-- 📚 Continuously learning and building real-world software
+* Backend Engineering
+* Full-Stack Development
+* Artificial Intelligence & GenAI
+* System Design
+* Distributed Systems
+* API Design
+* IoT Systems
+* Cloud Technologies
 
 ---
 
-## 🌱 Currently Exploring
+# 📚 Currently Learning
 
-- 🤖 AI Agents
-- 🧩 Advanced LangGraph Workflows
-- ⚡ FastAPI & High-Performance APIs
-- ☁️ Cloud Deployment
-- 🏗️ Scalable System Design
+* 🧠 AI Agents
+* ⚡ Advanced LangGraph Workflows
+* 🚀 High-Performance Backend Architecture
+* ☁️ Docker & Cloud Deployment
+* 🏗️ Scalable System Design
 
 ---
 
-## 🤝 Let's Connect
+# 📊 Coding Journey
 
-💼 **LinkedIn**  
+✨ **800+ DSA Problems Solved**
+
+I enjoy solving algorithmic problems, participating in coding contests, and continuously strengthening my understanding of data structures, algorithms, and software engineering principles.
+
+---
+
+# 🤝 Connect With Me
+
+💼 **LinkedIn**
+
 https://www.linkedin.com/in/mannu-kumar-thakur-6903a0348
 
 ---
 
 <div align="center">
 
-### ⚡ *"Building products that solve real problems, one commit at a time."*
+### ⭐ *Code with purpose. Build with passion. Learn without limits.*
 
 </div>
