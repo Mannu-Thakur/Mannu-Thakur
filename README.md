@@ -4,73 +4,83 @@
 
 🎓 **Computer Engineering Student @ IIIT Bhubaneswar**
 
-> *Building scalable backend systems, AI-powered applications, and products that solve real-world problems.*
+> *Building scalable backend systems, AI-powered applications, and production-ready software that solves real-world problems.*
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 * 💻 Solved **800+ DSA problems** across LeetCode & CodeChef
-* 🛠️ Passionate about Backend Development, System Design & Distributed Systems
-* 🤖 Currently building **GenAI** applications using **LangChain** & **LangGraph**
-* 🚀 Love transforming ideas into production-ready products
-* 🌱 Constantly learning new technologies and improving engineering skills
+* 🛠️ Passionate about **Backend Development, System Design, and Distributed Systems**
+* 🤖 Building **GenAI applications** using **LangChain, LangGraph, RAG, and LLM workflows**
+* 🚀 Love transforming ideas into scalable, production-ready products
+* 🌱 Continuously learning modern backend technologies, AI systems, and cloud-native development
 
 ---
 
 # 💻 Tech Stack
 
-### 👨‍💻 Languages
+## 👨‍💻 Languages
 
 <p>
-C++ • Java • JavaScript • TypeScript • Python
+C++ • Java • Python • JavaScript • TypeScript
 </p>
 
-### ⚙️ Backend
+## ⚙️ Backend
 
 <p>
-FastAPI • Node.js • Express.js • REST APIs
+FastAPI • Node.js • Express.js • REST APIs • JWT Authentication
 </p>
 
-### 🎨 Frontend
+## 🎨 Frontend
 
 <p>
 React.js • Tailwind CSS • HTML5 • CSS3
 </p>
 
-### 🤖 AI & GenAI
+## 🤖 AI & GenAI
 
 <p>
-LangChain • LangGraph • RAG • FAISS • LLM Workflows
+LangChain • LangGraph • RAG • FAISS • Streamlit • Hugging Face • LLM Workflows
 </p>
 
-### 🗄️ Databases
+## 🗄️ Databases
 
 <p>
 PostgreSQL • MongoDB • MySQL • SQLite
 </p>
 
-### 🧰 Tools & Technologies
+## 🧰 Tools & Technologies
 
 <p>
-Git • GitHub • Docker • Postman • Prisma • VS Code
+Git • GitHub • Docker • Prisma • Postman • VS Code
 </p>
 
 ---
 
 # 🌟 Featured Projects
 
+## ⚔️ bugX
+
+A modern competitive coding platform featuring online code execution, multiplayer coding battles, authentication, submissions, leaderboards, real-time matchmaking, and a scalable backend architecture.
+
+**Tech Stack:** React • TypeScript • FastAPI • PostgreSQL • Docker • WebSockets
+
+---
+
 ## 🛍️ ChaseMart
 
-A full-stack e-commerce platform built with a modern architecture featuring secure authentication, admin dashboard, product & order management, Stripe & Razorpay integration, Cloudinary, and scalable REST APIs.
+A full-stack e-commerce platform with secure authentication, admin dashboard, product & order management, Stripe & Razorpay integration, Cloudinary, scalable REST APIs, and a modern shopping experience.
 
-### ⚔️ bugX
+**Tech Stack:** React • Node.js • Express.js • MongoDB • Stripe • Razorpay • Cloudinary
 
-A modern competitive coding platform supporting online code execution, coding challenges, multiplayer battles, authentication, submissions, leaderboards, and a developer-focused coding experience.
+---
 
-### 🚨 IoT Accident Detection & Emergency Response System
+## 🤖 AI YouTube RAG Chatbot
 
-An intelligent IoT solution that detects accidents using sensor data, analyzes impact severity, and automatically sends emergency alerts with live GPS location using GSM/LoRa communication.
+An AI-powered chatbot that answers questions from YouTube videos using transcript retrieval, vector embeddings, semantic search, and Retrieval-Augmented Generation (RAG).
+
+**Tech Stack:** Python • Streamlit • LangChain • LangGraph • FAISS • Hugging Face • Groq
 
 ---
 
@@ -82,7 +92,6 @@ An intelligent IoT solution that detects accidents using sensor data, analyzes i
 * System Design
 * Distributed Systems
 * API Design
-* IoT Systems
 * Cloud Technologies
 
 ---
@@ -101,7 +110,7 @@ An intelligent IoT solution that detects accidents using sensor data, analyzes i
 
 ✨ **800+ DSA Problems Solved**
 
-I enjoy solving algorithmic problems, participating in coding contests, and continuously strengthening my understanding of data structures, algorithms, and software engineering principles.
+I enjoy solving algorithmic problems, participating in coding contests, and continuously strengthening my understanding of data structures, algorithms, backend engineering, and software architecture.
 
 ---
 
