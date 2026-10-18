@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Mannu Kumar Thakur — Backend Engineering and Applied AI</title>
+<desc id="desc">A refined navy profile banner for Mannu Kumar Thakur, focused on backend engineering and applied AI.</desc>
+<defs>
+  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0a1120" />
+    <stop offset="0.55" stop-color="#111b31" />
+    <stop offset="1" stop-color="#17264a" />
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#65d9ff" />
+    <stop offset="1" stop-color="#a79aff" />
+  </linearGradient>
+  <radialGradient id="glow">
+    <stop offset="0" stop-color="#536dff" stop-opacity="0.38" />
+    <stop offset="1" stop-color="#536dff" stop-opacity="0" />
+  </radialGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+    <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#9bb4e8" stroke-opacity="0.07" stroke-width="1" />
+  </pattern>
+</defs>
+<rect width="1200" height="340" rx="28" fill="url(#background)" />
+<rect width="1200" height="340" rx="28" fill="url(#grid)" />
+<circle cx="1030" cy="145" r="260" fill="url(#glow)" />
+<rect x="58" y="60" width="5" height="220" rx="2.5" fill="url(#accent)" />
+<text x="88" y="93" fill="#86ddff" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.8">MANNU KUMAR THAKUR  /  BACKEND ENGINEERING &amp; APPLIED AI</text>
+<text x="86" y="157" fill="#f4f7ff" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700">Dependable systems.</text>
+<text x="86" y="211" fill="#f4f7ff" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700">Useful AI, built to last.</text>
+<text x="89" y="260" fill="#b7c5df" font-family="Segoe UI, Arial, sans-serif" font-size="18">Computer Engineering  ·  IIIT Bhubaneswar</text>
+<rect x="788" y="66" width="350" height="208" rx="20" fill="#0a1020" fill-opacity="0.78" stroke="#91a9d8" stroke-opacity="0.24" />
+<circle cx="816" cy="92" r="5" fill="#65d9ff" />
+<circle cx="834" cy="92" r="5" fill="#a79aff" />
+<circle cx="852" cy="92" r="5" fill="#69d5b4" />
+<text x="879" y="97" fill="#91a4c5" font-family="Consolas, monospace" font-size="12" letter-spacing="1">AREAS OF FOCUS</text>
+<path d="M 811 116 H 1114" stroke="#7286ad" stroke-opacity="0.2" />
+<circle cx="819" cy="143" r="4" fill="#69d5b4" />
+<text x="835" y="148" fill="#dbe7ff" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">Reliable backend systems</text>
+<circle cx="819" cy="183" r="4" fill="#69d5b4" />
+<text x="835" y="188" fill="#dbe7ff" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">Multi-agent AI workflows</text>
+<circle cx="819" cy="223" r="4" fill="#69d5b4" />
+<text x="835" y="228" fill="#dbe7ff" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">Production-minded products</text>
+</svg>
