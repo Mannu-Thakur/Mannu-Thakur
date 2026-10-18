@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Mannu Kumar Thakur — backend engineering and applied AI" width="100%" />
+  <img src="assets/profile-banner-v2.svg" alt="Mannu Kumar Thakur — backend engineering and applied AI" width="100%" />
 </p>
 
 <p align="center">
