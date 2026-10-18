@@ -1,26 +1,26 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Mannu Thakur — backend systems and useful AI products" width="100%" />
+  <img src="assets/profile-banner.svg" alt="Mannu Kumar Thakur — backend engineering and applied AI" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mannu-kumar-thakur-6903a0348">LinkedIn</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/Mannu-Thakur?tab=repositories">Browse my projects</a>
+  <a href="https://github.com/Mannu-Thakur?tab=repositories">Projects</a>
 </p>
 
-## 👋 About
+## About
 
-I’m a Computer Engineering student at **IIIT Bhubaneswar** interested in building dependable backend systems and practical AI applications. I enjoy taking a product from a clear idea to a working, well-structured implementation.
+I’m **Mannu Kumar Thakur**, a Computer Engineering student at **IIIT Bhubaneswar** focused on backend engineering and applied AI. I build reliable services and intelligent workflows, with an emphasis on clear architecture, maintainability, and practical impact.
 
 <table>
   <tr>
     <td align="center" width="33%"><strong>800+</strong><br />DSA problems solved</td>
-    <td align="center" width="33%"><strong>Backend</strong><br />APIs · system design · distributed systems</td>
-    <td align="center" width="33%"><strong>GenAI</strong><br />RAG · LangChain · LangGraph · LLM workflows</td>
+    <td align="center" width="33%"><strong>Backend Engineering</strong><br />APIs · system design · distributed systems</td>
+    <td align="center" width="33%"><strong>Agentic AI</strong><br />LangGraph · RAG · LLM orchestration</td>
   </tr>
 </table>
 
-## 🧰 Tech I work with
+## Technology
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -28,34 +28,34 @@ I’m a Computer Engineering student at **IIIT Bhubaneswar** interested in build
   </a>
 </p>
 
-## ✨ Featured work
+## Selected Work
 
 <table>
   <tr>
     <td valign="top" width="33%">
-      <h3>⚔️ <a href="https://github.com/Mannu-Thakur/bugX">bugX</a></h3>
-      <p>An AI-powered coding platform for practice, real-time battles, guided problem solving, and algorithm visualizations.</p>
+      <h3><a href="https://github.com/Mannu-Thakur/Agentic_AI_assistant">Agentic AI Assistant</a></h3>
+      <p>An agentic AI workspace built around a LangGraph supervisor and seven specialists for coding, research, retrieval, vision, document, and data-analysis workflows. Mission Mode surfaces execution progress, artifacts, and human review.</p>
+      <p><sub>Python · FastAPI · LangGraph · React · TypeScript · Hybrid RAG</sub></p>
+    </td>
+    <td valign="top" width="33%">
+      <h3><a href="https://github.com/Mannu-Thakur/bugX">bugX</a></h3>
+      <p>A competitive coding platform with structured practice, real-time battles, guided problem solving, and algorithm visualizations.</p>
       <p><sub>React · TypeScript · FastAPI · PostgreSQL · WebSockets</sub></p>
     </td>
     <td valign="top" width="33%">
-      <h3>🛍️ <a href="https://github.com/Mannu-Thakur/Shopverse">Shopverse (ChaseMart)</a></h3>
-      <p>A full-stack store with customer shopping flows, an admin dashboard, inventory and order management, and online payments.</p>
+      <h3><a href="https://github.com/Mannu-Thakur/Shopverse">Shopverse (ChaseMart)</a></h3>
+      <p>A full-stack commerce platform with customer shopping flows, an admin dashboard, inventory and order management, and online payments.</p>
       <p><sub>React · Node.js · Express · MongoDB · Stripe · Razorpay</sub></p>
-    </td>
-    <td valign="top" width="33%">
-      <h3>🎥 <a href="https://github.com/Mannu-Thakur/youtube-rag-chatbot">YouTube RAG Chatbot</a></h3>
-      <p>Ask questions about a video and get answers grounded in transcript passages, with source timestamps.</p>
-      <p><sub>Python · LangChain · FAISS · Groq</sub></p>
     </td>
   </tr>
 </table>
 
-## 🌱 Currently exploring
+## Current Focus
 
-AI agents · advanced LangGraph workflows · high-performance backend architecture · cloud deployment · scalable system design
+Multi-agent orchestration · scalable backend design · cloud-native deployment
 
 ---
 
 <p align="center">
-  <strong>Code with purpose. Build with care. Keep learning.</strong>
+  <strong>Design carefully. Build reliably. Keep learning.</strong>
 </p>
